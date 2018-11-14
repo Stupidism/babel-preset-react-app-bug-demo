@@ -1,0 +1,15 @@
+{
+  "name": "babel-preset-react-app-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react-app": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "NODE_ENV=production babel index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
